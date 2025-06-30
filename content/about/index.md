@@ -1,9 +1,19 @@
 ---
-layout: layouts/base.njk
-eleventyNavigation:
-  key: About Me
-  order: 3
+images:
+  - /public/img/0c7d66309ddbaf57d8c9ccfcad640604.jpg
+  - /public/img/0cc80da75f40ec86cc1aacf5c85d586c.jpg
+  - /public/img/42c7be8ec5b19d61a933f76607eae0bc.jpg
+  - /public/img/45ad82969372f049855c9f6ac796a5c3.jpg
+  - /public/img/58a3c42d314c823f2e9f325d2d3474ea-1.jpg
+  - /public/img/7257709dbd254ff0e39d43339484971e.jpg
+  - /public/img/6dd34fbedfed9a8626c012ceb6a76e8b.jpg
+  - /public/img/6b9f8aed4d8e59bd3d936ee9c2370d7b.jpg
+  - /public/img/669b60a7ff5d3d58c46137dcad745cf6.jpg
+  - /public/img/762c75188e79cc0f98e67baa6352d76c.jpg
+  - /public/img/8741c65cbe2fbbf18857334d9e4082bd.jpg
+  - /public/img/9a14ccbce04abd4c72c07f93413c47c6.jpg
+  - /public/img/b558626d465849b2d0804502f647e763.jpg
+  - /public/img/b71f6571dd094f327cdd4fc7bf9915ad.jpg
+  - /public/img/7524871ecb71050638a9663878a01271.jpg
+  - /public/img/d7ba07f0317eadbab3e06ae628b623a7.jpg
 ---
-# About Me
-
-I am a person that writes stuff.
