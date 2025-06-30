@@ -13,6 +13,18 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Body, type: rich-text }
+  - name: home
+    label: Homepage
+    type: file
+    path: content/about/index.md
+    fields:
+    - name: images
+      label: Featured Images
+      type: image
+      options:
+        path: images
+        extensions: [jpg, png]
+        multiple: true
   - name: about
     label: About page
     type: file
